@@ -34,7 +34,7 @@ Make sure you have Node.js and npm (or a similar package manager) installed on y
 ### **Installation**
 
 1. **Clone the repository:**  
-   git clone \[https://github.com/Blazeee-007/market-gauge-live.git\](https://github.com/Blazeee-007/market-gauge-live.git)
+   git clone \https://github.com/Blazeee-007/Realtime-Financial-Dashboard
 
 2. **Navigate into the project directory:**  
    cd market-gauge-live
